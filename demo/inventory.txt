@@ -11,6 +11,4 @@ honey	40
 cake	20
 nirma	6
 egg	8
-	
-	
-tui	sui
+
