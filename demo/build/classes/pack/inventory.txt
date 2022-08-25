@@ -1,0 +1,15 @@
+
+
+cake	4	
+lollipop	10
+chocolate	12
+ham	9
+sauce	4
+jam	1
+cheese	65
+
+honey	40
+	
+cake	20
+nirma	6
+6hgg	8
